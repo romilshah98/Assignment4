@@ -1,6 +1,6 @@
 # Assignment4
 ### Welcome to [Assingnment 4] of CS648 ###
-There are 3 pages in this assingnment whuch are created using Grid Layout:
+There are 3 pages in this assingnment which are created using Grid Layout:
 * Layout 1
 * Layout 2
 * Layout 3
